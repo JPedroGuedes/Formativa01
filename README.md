@@ -22,6 +22,6 @@ Update-DataBase -Context SistemasComprasDBContext
 
 ## 📌 Versão
 
-Eu usei [.Net]([https://dotnet.microsoft.com/pt-br/download/dotnet/8.0]) para controle de versão.
+Eu usei [.Net](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0) para controle de versão.
 
 obrigado ate mais 😊
