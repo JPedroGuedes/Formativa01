@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ge/4CTOzH8E+DYfA76EMqez6b2EAtvdpjLO1cFuXV8deA4eu0ynOBb6ZifRLJn96Im821CEYo5BqEXlVsxLe4A==",
+  "dgSpecHash": "E9guBUCbI4n7428HUM2yDFZEKe10OiPtKsqONtTxImOg/K2mA0vdQScRztaEYdqNTMNt9SWXtjiJPw78kmLZKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENAI3EM\\Desktop\\API\\exApiCompras\\exApiCompras\\exApiCompras.csproj",
+  "projectFilePath": "C:\\Users\\SENAI3EM\\Desktop\\aoi\\Formativa01\\exApiCompras\\exApiCompras.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SENAI3EM\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SENAI3EM\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
